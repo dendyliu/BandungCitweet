@@ -1,0 +1,30 @@
+yang tanda x uda dibenerin, tinggal page load doang
+
+page load
+
+awan (style) x
+ada file baru di folder img
+
+radio x
+http://stackoverflow.com/questions/15839169/how-to-get-value-of-selected-radio-button
+https://msdn.microsoft.com/en-us/library/15cy8xkc.aspx
+http://asp-net-example.blogspot.co.id/2008/10/radiobutton-example-how-to-use.html
+
+
+isi tutorial : x
+1. Isi semua keyword yang tersedia 
+2. Pilih metode pencocokan Knuth-Morris-Pratt atau Boyer-Moore 
+3. Klik RUN
+4. Hasil pencarian akan ditampilkan pada bagian Underground
+5. Pilih kategori untuk menemukan hasil pencarian yang diinginkan
+
+video x
+
+Praditya Raudi : Front-end developer, create creative and interactive interface
+Dendy Suprihady : Back-end developer, create kmp and boyer-moore algorithm, twitter api and google api
+Verisky Mega Jaya : Back-end developer, create incredible parse for keyword and video maker
+
+revisi:
+style.css line 570
+index.html 17-18, 21-164, 175-180, 189-191, 236-249, 409-419 
+copy css tambahan, bootstrap.css, build.css
